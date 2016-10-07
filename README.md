@@ -19,7 +19,7 @@ make; ./a.out
 
 ### `struct RBT_Node* RBT_emptyTree();`
 
-Create an empty tree.
+Create an empty tree
 
 **Returns** A `struct BST_Node` that represents the new empty tree.
 
